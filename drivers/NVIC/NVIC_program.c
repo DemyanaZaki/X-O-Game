@@ -1,9 +1,3 @@
-/*****************************************************************************************
- * File Name: NVIC_program.c
- *
- * Authors: Ahmed Nashaat - Mohamed Sherif - Kariem ALaa - Omar Mostafa - Omar Shabaan
- ****************************************************************************************/
-
 #include "../../common/Types.h"
 #include "../../common/BIT_MATH.h"
 #include "NVIC_interface.h"
